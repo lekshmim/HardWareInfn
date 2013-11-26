@@ -1,0 +1,10 @@
+D:\source1\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.exe
+D:\source1\GetHardwareInfo_Code\obj\Debug\GetHardwareInfo.pdb
+D:\Projects\HardwareInfn\obj\Debug\GetHardwareInfo.exe
+D:\Projects\HardwareInfn\obj\Debug\GetHardwareInfo.pdb
+D:\Projects\HardwareInfn\bin\Debug\GetHardwareInfo.exe
+D:\Projects\HardwareInfn\bin\Debug\GetHardwareInfo.pdb
+D:\Projects\HardwareInfn\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HardwareInfn\obj\Debug\GetHardwareInfo.frmMain.resources
+D:\Projects\HardwareInfn\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+D:\Projects\HardwareInfn\obj\Debug\GetHardwareInfo.csproj.GenerateResource.Cache
